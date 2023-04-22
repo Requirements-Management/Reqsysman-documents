@@ -18,10 +18,10 @@
 1. Установка ПО obsidian на ваше устройство по [ссылке](https://obsidian.md/)
 2. Клонировать [текущий репозиторий](https://github.com/Requirements-Management/Reqsysman-documents)
 3. Отрыть папку с репозиторием (Open folder as a vault)
-![[Pasted image 20230423022759.png]]
+![title](images/Pastedimage20230423022759.png)
 
 4. Включить все плагины
-![[Pasted image 20230423023230.png]]
+![title](images/Pastedimage20230423023230.png)
 
 # Как пользоваться
 
