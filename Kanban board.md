@@ -22,10 +22,6 @@ kanban-plugin: basic
 - [x] Перейти на obsidian #IgorSudin ^7wf1jz
 
 
-## Archive
-
-
-
 
 
 %% kanban:settings
