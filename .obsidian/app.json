@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "attachmentFolderPath": "images"
 }

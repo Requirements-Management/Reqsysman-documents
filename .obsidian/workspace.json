@@ -11,10 +11,11 @@
             "id": "ff0fee04831db2da",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Требования/Бизнес требования/Бизнес требования.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -159,15 +164,21 @@
       "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "77e6d3796682f50c",
+  "active": "ff0fee04831db2da",
   "lastOpenFiles": [
-    "Требования/Бизнес требования/Бизнес требования.md",
+    "images/Pasted image 20230423023230.png",
+    "images/Pasted image 20230423022759.png",
+    "Pasted image 20230423022353.png.md",
+    "README.md",
+    "FAQ.md",
+    "images/Pasted image 20230423022213.png",
+    "images/Pasted image 20230423022353.png",
+    "images",
     "TODO.md",
+    "Kanban board.md",
+    "Требования/Бизнес требования/Бизнес требования.md",
     "Требования к формату требований.md",
     "Требования к API.md",
-    "FAQ.md",
-    "Kanban board.md",
-    "README.md",
     "Meetings/Getting started with meeting notes.md",
     "Meetings/Team Standup @March 29, 2023.md",
     "Meetings/Team Weekly @March 28, 2023.md",
@@ -192,11 +203,8 @@
     "Требования/Бизнес требования",
     "Требования/Архитектурные требования/Архитектурные требования.md",
     "Требования/Архитектурные требования/Relationships модуль Архитектурные требования/Relationships модуль Архитектурные требования.md",
-    "Docs/Example PRD.md",
-    "Meetings/Untitled.md",
     "Требования/Архитектурные требования/Requirements Management модуль Архитектурные требования",
     "Требования/Архитектурные требования/Relationships модуль Архитектурные требования",
-    "Meetings b2d11790de6246508f368655dfeed706.csv",
-    "Meetings"
+    "Meetings b2d11790de6246508f368655dfeed706.csv"
   ]
 }
