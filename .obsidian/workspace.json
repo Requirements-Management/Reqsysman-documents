@@ -11,9 +11,11 @@
             "id": "ff0fee04831db2da",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban board.md"
+                "file": "Требования к формату требований.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban board.md",
+                "file": "Требования к формату требований.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban board.md",
+                "file": "Требования к формату требований.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban board.md"
+                "file": "Требования к формату требований.md"
               }
             }
           },
@@ -178,11 +180,11 @@
   },
   "active": "ff0fee04831db2da",
   "lastOpenFiles": [
-    "TODO.md",
     "README.md",
-    "FAQ.md",
-    "images/Pastedimage20230423023230.png",
     "Kanban board.md",
+    "FAQ.md",
+    "TODO.md",
+    "images/Pastedimage20230423023230.png",
     "Pasted image 20230423022353.png.md",
     "Требования к API.md",
     "Требования к формату требований.md",
