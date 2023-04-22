@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8da646c274a14869",
+        "id": "b045151b0f0e48c1",
         "type": "tabs",
         "children": [
           {
-            "id": "7a233cb700692aad",
+            "id": "ff0fee04831db2da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "Требования/Бизнес требования/Бизнес требования.md"
               }
             }
           }
@@ -69,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "right": {
     "id": "e3302fcd727693f6",
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +121,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "77e6d3796682f50c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9a106feb4f204ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +154,49 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "7a233cb700692aad",
+  "active": "77e6d3796682f50c",
   "lastOpenFiles": [
-    "README.md"
+    "Требования/Бизнес требования/Бизнес требования.md",
+    "TODO.md",
+    "Требования к формату требований.md",
+    "Требования к API.md",
+    "FAQ.md",
+    "Kanban board.md",
+    "README.md",
+    "Meetings/Getting started with meeting notes.md",
+    "Meetings/Team Standup @March 29, 2023.md",
+    "Meetings/Team Weekly @March 28, 2023.md",
+    "Описание связей требований.md",
+    "Требования/Требования для разработки.md",
+    "Формальные инспекции/Формальные инспекции.md",
+    "[Kanban board.md",
+    "Без названия.canvas",
+    "Тест кейсы/Тест кейсы.md",
+    "Тест кейсы/Тест кейс “изменение требования”.md",
+    "Тест кейсы",
+    "Стандарты/Стандарт на разработку требований.md",
+    "Стандарты/Стандарт на кодирование.md",
+    "Формальные инспекции",
+    "Projects.md",
+    "Wiki.md",
+    "Teamspace Home.md",
+    "Требования/Системные требования/Системные требования.md",
+    "Стандарты",
+    "Требования",
+    "Требования/Системные требования",
+    "Требования/Бизнес требования",
+    "Требования/Архитектурные требования/Архитектурные требования.md",
+    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования/Relationships модуль Архитектурные требования.md",
+    "Docs/Example PRD.md",
+    "Meetings/Untitled.md",
+    "Требования/Архитектурные требования/Requirements Management модуль Архитектурные требования",
+    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования",
+    "Meetings b2d11790de6246508f368655dfeed706.csv",
+    "Meetings"
   ]
 }
