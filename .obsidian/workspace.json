@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bafa1466c2c6628e",
+        "id": "4484fa279ccbd68d",
         "type": "tabs",
         "children": [
           {
-            "id": "9d795afb97b5fc0b",
+            "id": "525489324b3b7667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "445e2aa17797c5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стандарты/Стандарт на кодирование.md",
+                "file": "Планы/План конфигурационного управления.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стандарты/Стандарт на кодирование.md",
+                "file": "Планы/План конфигурационного управления.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стандарты/Стандарт на кодирование.md",
+                "file": "Планы/План конфигурационного управления.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стандарты/Стандарт на кодирование.md"
+                "file": "Планы/План конфигурационного управления.md"
               }
             }
           },
@@ -199,49 +186,49 @@
       "obsidian-comments:Show Comments Panel": false
     }
   },
-  "active": "445e2aa17797c5d5",
+  "active": "77e6d3796682f50c",
   "lastOpenFiles": [
+    "Стандарты/Стандарт на кодирование.md",
+    "Планы/План конфигурационного управления.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Планы",
+    "README.md",
+    "Kanban board.md",
     "TODO.md",
     "Диаграмма базы данных.md",
-    "Kanban board.md",
+    "Описание связей требований.md",
+    "Формальные инспекции/Формальные инспекции.md",
+    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования/Relationships модуль Архитектурные требования.md",
+    "Требования/Архитектурные требования/Архитектурные требования.md",
+    "Требования/Архитектурные требования/Requirements Management модуль Архитектурные требования/Requirements Management модуль Архитектурные требования.md",
+    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования/Детализация требований (для разработчика).md",
+    "Тест кейсы/Тест кейсы.md",
+    "Требования/Бизнес требования/Бизнес требования.md",
     "Требования к формату требований.md",
-    "README.md",
     "Без названия.canvas",
     "images/Pastedimage20230423022759.png",
     "images/Pastedimage20230423023230.png",
     "Требования к API.md",
     "FAQ.md",
     "Pasted image 20230423022353.png.md",
-    "Описание связей требований.md",
     "images/Pasted.md",
     "images/Pasted image 20230423023230.png",
     "images/Pasted image 20230423022213.png",
     "images/Pasted image 20230423022353.png",
     "images",
-    "Требования/Бизнес требования/Бизнес требования.md",
     "Meetings/Getting started with meeting notes.md",
     "Meetings/Team Standup @March 29, 2023.md",
     "Meetings/Team Weekly @March 28, 2023.md",
     "Требования/Требования для разработки.md",
-    "Формальные инспекции/Формальные инспекции.md",
     "[Kanban board.md",
-    "Тест кейсы/Тест кейсы.md",
-    "Тест кейсы/Тест кейс “изменение требования”.md",
     "Тест кейсы",
-    "Стандарты/Стандарт на разработку требований.md",
-    "Стандарты/Стандарт на кодирование.md",
     "Формальные инспекции",
-    "Projects.md",
-    "Wiki.md",
-    "Teamspace Home.md",
-    "Требования/Системные требования/Системные требования.md",
     "Стандарты",
     "Требования",
     "Требования/Системные требования",
     "Требования/Бизнес требования",
-    "Требования/Архитектурные требования/Архитектурные требования.md",
     "Требования/Архитектурные требования/Requirements Management модуль Архитектурные требования",
-    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования",
-    "Meetings b2d11790de6246508f368655dfeed706.csv"
+    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования"
   ]
 }
