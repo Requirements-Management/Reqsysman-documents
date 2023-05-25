@@ -1,7 +1,8 @@
 ---
 title:  REQ-A-1
 created: 2023-05-21
-Описание: Сервис должен быть разделен на модули: Requirements Management, Relationships Management, Traceability Management, Git Integration и Web Interface.
+version: 1
+Описание: Сервис должен быть разделен на модули Requirements Management, Relationships Management, Traceability Management, Git Integration и Web Interface.
 Раздел: Структурные требования
 Потомки:
 - "[[None]]"
