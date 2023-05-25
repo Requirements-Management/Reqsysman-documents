@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "d2feb6f6a64801f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "985e9be35145ae8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a9980e0b0d42178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Стандарты/Стандарт на кодирование.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef9f2250f9edafe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Планы/План конфигурационного управления.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b632ea138828a9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Требования/Бизнес требования/REQ-B-1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f362a0ad52ca3c7d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".gitignore",
+                "staged": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f65c97a931990ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f190c1f03912b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd356a8e14614263",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcda21a751cb9495",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcadcc5434bc7129",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac5383abbd35e4f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "e3302fcd727693f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1416a25ca46d5539",
+        "type": "tabs",
+        "dimension": 72.97297297297297,
+        "children": [
+          {
+            "id": "00f2d103a25b5099",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "663ba54a15dc0c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3977de9d5df5ce3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38170c268fa1d433",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "77e6d3796682f50c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9a106feb4f204ba",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d75b0e59bdd670ec",
+        "type": "tabs",
+        "dimension": 27.027027027027028,
+        "children": [
+          {
+            "id": "449adb5618bf0e62",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f362a0ad52ca3c7d",
+  "lastOpenFiles": [
+    "Планы/План конфигурационного управления.md",
+    "Требования/Бизнес требования/REQ-B-1.md",
+    "Стандарты/Стандарт на кодирование.md",
+    "Доска для сообщений об ошибках.md",
+    "Доска для запросов на изменение.md",
+    "Описание связей требований.md",
+    "Требования к формату требований.md",
+    "Планы/План верификации.md",
+    "Планы/План разработки.md",
+    "Формальные инспекции/Формальная инспецкция 20.05.2023.md",
+    "Формальные инспекции/Формальные инспекция 19.05.2023.md",
+    "Требования/Системные требования/REQ-S-4.md",
+    "Требования/Бизнес требования/Бизнес требования.md",
+    "Требования/Архитектурные требования/Requirements Management модуль Архитектурные требования/Детализация требований (Уровень разработчика).md",
+    "Требования/Архитектурные требования/Relationships модуль Архитектурные требования/Relationships модуль Архитектурные требования.md",
+    "Тест кейсы/Тест кейс _Создание связей между требованиями_.md",
+    "Тест кейсы/Тест кейс _Создание нового требования_.md",
+    "Тест кейсы/Тест кейс _Удаление требования_.md",
+    "Тест кейсы/Тест кейс _Разрешение конфликтов связей требований_.md",
+    "Стандарты/Стандарт на разработку требований.md",
+    "Стандарты/Стандарт на тест кейсы.md",
+    "Тест кейсы/Тест кейс _Идентификация и обработка конфликтов связей требований_.md",
+    "Стандарты/Стандарт на разработку ПО.md",
+    "Стандарты/Стандарт на проектирование.md",
+    "Риск-менеджмент.md",
+    "Требования/Бизнес требования/REQ-B-3.md",
+    "images/Pasted image 20230525035510.png",
+    "images/Pasted image 20230525033855.png",
+    "images/Pastedimage20230423022759.png",
+    "images/Pastedimage20230423023230.png",
+    "Untitled",
+    "Templates",
+    "Требования/Файлы требований test",
+    "Требования/Требования по управлению конфликтами",
+    "Планы",
+    "Без названия.canvas",
+    "images/Pasted image 20230423023230.png",
+    "images/Pasted image 20230423022213.png",
+    "images/Pasted image 20230423022353.png",
+    "images",
+    "Тест кейсы",
+    "Формальные инспекции",
+    "Стандарты",
+    "Требования"
+  ]
+}
